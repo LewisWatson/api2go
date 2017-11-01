@@ -4,9 +4,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/manyminds/api2go"
-	"github.com/manyminds/api2go/examples/model"
-	"github.com/manyminds/api2go/examples/storage"
+	"github.com/LewisWatson/api2go"
+	"github.com/LewisWatson/api2go/examples/model"
+	"github.com/LewisWatson/api2go/examples/storage"
 )
 
 // ChocolateResource for api2go routes

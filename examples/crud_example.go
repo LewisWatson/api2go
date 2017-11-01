@@ -46,11 +46,11 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/manyminds/api2go"
-	"github.com/manyminds/api2go/examples/model"
-	"github.com/manyminds/api2go/examples/resolver"
-	"github.com/manyminds/api2go/examples/resource"
-	"github.com/manyminds/api2go/examples/storage"
+	"github.com/LewisWatson/api2go"
+	"github.com/LewisWatson/api2go/examples/model"
+	"github.com/LewisWatson/api2go/examples/resolver"
+	"github.com/LewisWatson/api2go/examples/resource"
+	"github.com/LewisWatson/api2go/examples/storage"
 )
 
 func main() {
